@@ -1,0 +1,470 @@
+[
+  {
+    "id": "orbit-watch",
+    "name": "Orbit One",
+    "category": "Watches",
+    "price": 285,
+    "tag": "NEW OBJECT",
+    "material": "Brushed titanium \u00b7 Sapphire glass",
+    "color": "Titanium / Ink",
+    "description": "A quieter kind of precision. Orbit One pairs a sculpted titanium case with a deep ink dial and a tactile, considered movement.",
+    "specs": [
+      [
+        "Case",
+        "39 mm titanium"
+      ],
+      [
+        "Glass",
+        "Sapphire crystal"
+      ],
+      [
+        "Movement",
+        "Quartz, 3-hand"
+      ],
+      [
+        "Water resistance",
+        "5 ATM"
+      ]
+    ],
+    "image": "photo-1523275335684-37898b6baf30",
+    "image2": "photo-1524805444758-089113d48a6d",
+    "featured": true,
+    "new": true,
+    "colors": [
+      "Titanium",
+      "Midnight"
+    ]
+  },
+  {
+    "id": "arc-watch",
+    "name": "Arc Automatic",
+    "category": "Watches",
+    "price": 420,
+    "tag": "STUDIO EDITION",
+    "material": "Stainless steel \u00b7 Brushed finish",
+    "color": "Steel / Porcelain",
+    "description": "Mechanical character, pared back to its essentials. A crisp dial, clean geometry and a steel bracelet designed to age beautifully.",
+    "specs": [
+      [
+        "Case",
+        "40 mm steel"
+      ],
+      [
+        "Glass",
+        "Sapphire crystal"
+      ],
+      [
+        "Movement",
+        "Automatic"
+      ],
+      [
+        "Power reserve",
+        "40 hours"
+      ]
+    ],
+    "image": "photo-1524592094714-0f0654e20314",
+    "image2": "photo-1523170335258-f5ed11844a49",
+    "featured": true,
+    "new": false,
+    "colors": [
+      "Steel",
+      "Black"
+    ]
+  },
+  {
+    "id": "form-ring",
+    "name": "Form Ring",
+    "category": "Jewelry",
+    "price": 95,
+    "tag": "EVERYDAY OBJECT",
+    "material": "Recycled sterling silver",
+    "color": "Polished silver",
+    "description": "An architectural loop with softened edges. Made to be worn alone or stacked, and to feel familiar from day one.",
+    "specs": [
+      [
+        "Material",
+        "925 recycled silver"
+      ],
+      [
+        "Finish",
+        "High polish"
+      ],
+      [
+        "Profile",
+        "4 mm rounded band"
+      ],
+      [
+        "Care",
+        "Polish cloth included"
+      ]
+    ],
+    "image": "photo-1605100804763-247f67b3557e",
+    "image2": "photo-1617038220319-276d3cfab638",
+    "featured": true,
+    "new": true,
+    "colors": [
+      "Silver",
+      "Gold"
+    ]
+  },
+  {
+    "id": "sol-frame",
+    "name": "Sol Frame",
+    "category": "Eyewear",
+    "price": 160,
+    "tag": "SUN / 02",
+    "material": "Acetate \u00b7 UV400 lenses",
+    "color": "Black / Smoke",
+    "description": "A confident frame with a softened rectangular silhouette. Sculpted acetate, balanced weight and full-spectrum UV protection.",
+    "specs": [
+      [
+        "Frame",
+        "Italian acetate"
+      ],
+      [
+        "Lens",
+        "UV400, category 3"
+      ],
+      [
+        "Fit",
+        "Medium"
+      ],
+      [
+        "Included",
+        "Hard case + cloth"
+      ]
+    ],
+    "image": "photo-1511499767150-a48a237f0083",
+    "image2": "photo-1517841905240-472988babdf9",
+    "featured": true,
+    "new": false,
+    "colors": [
+      "Black",
+      "Tortoise"
+    ]
+  },
+  {
+    "id": "arc-headphones",
+    "name": "Arc Headphones",
+    "category": "Technology",
+    "price": 310,
+    "tag": "SOUND / 01",
+    "material": "Anodised aluminium \u00b7 Memory foam",
+    "color": "Graphite",
+    "description": "A considered listening space. Warm, detailed sound meets a lightweight aluminium frame and controls that stay out of the way.",
+    "specs": [
+      [
+        "Playback",
+        "Up to 32 hours"
+      ],
+      [
+        "Connectivity",
+        "Bluetooth 5.3 / USB-C"
+      ],
+      [
+        "Charging",
+        "Fast charge"
+      ],
+      [
+        "Weight",
+        "248 g"
+      ]
+    ],
+    "image": "photo-1505740420928-5e560c06d30e",
+    "image2": "photo-1546435770-a3e426bf472b",
+    "featured": true,
+    "new": true,
+    "colors": [
+      "Graphite",
+      "Silver"
+    ]
+  },
+  {
+    "id": "daily-tote",
+    "name": "Daily Tote",
+    "category": "Bags & Leather",
+    "price": 220,
+    "tag": "CARRY / 01",
+    "material": "Grain leather \u00b7 Cotton lining",
+    "color": "Espresso",
+    "description": "A daily carry with a little more intention. A structured silhouette, considered internal pockets and leather that develops its own character.",
+    "specs": [
+      [
+        "Material",
+        "Full-grain leather"
+      ],
+      [
+        "Lining",
+        "Cotton twill"
+      ],
+      [
+        "Dimensions",
+        "38 \u00d7 30 \u00d7 12 cm"
+      ],
+      [
+        "Pockets",
+        "3 internal"
+      ]
+    ],
+    "image": "photo-1548036328-c9fa89d128fa",
+    "image2": "photo-1553062407-98eeb64c6a62",
+    "featured": true,
+    "new": false,
+    "colors": [
+      "Espresso",
+      "Black"
+    ]
+  },
+  {
+    "id": "pulse-speaker",
+    "name": "Pulse Mini",
+    "category": "Technology",
+    "price": 145,
+    "tag": "SOUND / 02",
+    "material": "Aluminium mesh \u00b7 Soft-touch polymer",
+    "color": "Cobalt / Graphite",
+    "description": "Small footprint, full-room presence. Pulse Mini brings a rich, balanced soundstage to desks, shelves and slow mornings.",
+    "specs": [
+      [
+        "Playback",
+        "12 hours"
+      ],
+      [
+        "Connectivity",
+        "Bluetooth / USB-C"
+      ],
+      [
+        "Output",
+        "20 W"
+      ],
+      [
+        "Protection",
+        "IPX5"
+      ]
+    ],
+    "image": "photo-1608043152269-423dbba4e7e1",
+    "image2": "photo-1608156639585-b3a032ef9689",
+    "featured": false,
+    "new": true,
+    "colors": [
+      "Graphite",
+      "Cobalt"
+    ]
+  },
+  {
+    "id": "slim-wallet",
+    "name": "Slim Wallet",
+    "category": "Bags & Leather",
+    "price": 78,
+    "tag": "CARRY / 02",
+    "material": "Vegetable-tanned leather",
+    "color": "Cognac",
+    "description": "Only what you need, beautifully held. A slim profile with room for the essentials and a leather surface that softens with use.",
+    "specs": [
+      [
+        "Material",
+        "Vegetable-tanned leather"
+      ],
+      [
+        "Capacity",
+        "6 cards + notes"
+      ],
+      [
+        "Profile",
+        "8 mm"
+      ],
+      [
+        "Origin",
+        "Small-batch made"
+      ]
+    ],
+    "image": "photo-1627123424574-724758594e93",
+    "image2": "photo-1622560480654-d96214fdc887",
+    "featured": false,
+    "new": false,
+    "colors": [
+      "Cognac",
+      "Black"
+    ]
+  },
+  {
+    "id": "air-earbuds",
+    "name": "Air Earbuds",
+    "category": "Technology",
+    "price": 185,
+    "tag": "SOUND / 03",
+    "material": "Matte polymer \u00b7 Silicone tips",
+    "color": "Porcelain",
+    "description": "Clear, balanced listening without visual noise. Air Earbuds bring intuitive controls, pocket-sized charging and a secure, comfortable fit.",
+    "specs": [
+      [
+        "Playback",
+        "7 h / 28 h case"
+      ],
+      [
+        "Connectivity",
+        "Bluetooth 5.3"
+      ],
+      [
+        "Charging",
+        "USB-C / wireless"
+      ],
+      [
+        "Noise control",
+        "Adaptive ANC"
+      ]
+    ],
+    "image": "photo-1606220945770-b5b6c2c55bf1",
+    "image2": "photo-1606400082777-ef05f3c5cde2",
+    "featured": false,
+    "new": true,
+    "colors": [
+      "Porcelain",
+      "Graphite"
+    ]
+  },
+  {
+    "id": "line-chain",
+    "name": "Line Chain",
+    "category": "Jewelry",
+    "price": 125,
+    "tag": "FORM / 03",
+    "material": "Sterling silver \u00b7 Rhodium finish",
+    "color": "Silver",
+    "description": "A fine chain with just enough presence. Clean links catch the light without asking for it.",
+    "specs": [
+      [
+        "Material",
+        "925 sterling silver"
+      ],
+      [
+        "Length",
+        "50 cm"
+      ],
+      [
+        "Clasp",
+        "Lobster clasp"
+      ],
+      [
+        "Finish",
+        "Rhodium plated"
+      ]
+    ],
+    "image": "photo-1611652022419-a9419f74343d",
+    "image2": "photo-1611591437281-460bfbe1220a",
+    "featured": false,
+    "new": false,
+    "colors": [
+      "Silver",
+      "Gold"
+    ]
+  },
+  {
+    "id": "frame-case",
+    "name": "Frame Case",
+    "category": "Accessories",
+    "price": 54,
+    "tag": "OBJECT / 04",
+    "material": "Recycled aluminium \u00b7 Microfibre",
+    "color": "Silver",
+    "description": "A protective shell for the device you reach for most. Precision-cut aluminium, a soft lining and a magnetic close.",
+    "specs": [
+      [
+        "Shell",
+        "Recycled aluminium"
+      ],
+      [
+        "Lining",
+        "Microfibre"
+      ],
+      [
+        "Closure",
+        "Magnetic"
+      ],
+      [
+        "Compatibility",
+        "Universal compact"
+      ]
+    ],
+    "image": "photo-1512499617640-c74ae3a79d37",
+    "image2": "photo-1517336714731-489689fd1ca8",
+    "featured": false,
+    "new": true,
+    "colors": [
+      "Silver",
+      "Black"
+    ]
+  },
+  {
+    "id": "field-cap",
+    "name": "Field Cap",
+    "category": "Accessories",
+    "price": 48,
+    "tag": "DAILY / 01",
+    "material": "Organic cotton twill",
+    "color": "Stone",
+    "description": "A familiar shape, sharpened by proportion. Organic cotton twill, clean stitching and an adjustable metal clasp.",
+    "specs": [
+      [
+        "Material",
+        "100% organic cotton"
+      ],
+      [
+        "Fit",
+        "Adjustable"
+      ],
+      [
+        "Closure",
+        "Metal clasp"
+      ],
+      [
+        "Care",
+        "Cold hand wash"
+      ]
+    ],
+    "image": "photo-1588850561407-ed78c282e89b",
+    "image2": "photo-1521369909029-2afed882baee",
+    "featured": false,
+    "new": false,
+    "colors": [
+      "Stone",
+      "Black"
+    ]
+  },
+  {
+    "id": "charge-dock",
+    "name": "Charge Dock",
+    "category": "Technology",
+    "price": 88,
+    "tag": "POWER / 01",
+    "material": "Anodised aluminium \u00b7 Silicone base",
+    "color": "Graphite",
+    "description": "A clean landing place for your everyday tech. A weighted aluminium dock with cable management hidden beneath the surface.",
+    "specs": [
+      [
+        "Output",
+        "Up to 15 W"
+      ],
+      [
+        "Input",
+        "USB-C"
+      ],
+      [
+        "Body",
+        "Anodised aluminium"
+      ],
+      [
+        "Compatibility",
+        "Qi-enabled devices"
+      ]
+    ],
+    "image": "photo-1586953208448-b95a79798f07",
+    "image2": "photo-1609592806596-b43bada4cdd2",
+    "featured": false,
+    "new": true,
+    "colors": [
+      "Graphite",
+      "Silver"
+    ]
+  }
+]
